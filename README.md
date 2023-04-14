@@ -2,24 +2,24 @@
 One of my projects created for the "Databases" course assignment, completed during my studies.
 
 ## Table of Contents
-+ [Relations](#Relations_between_tables:)
-+ [Getting Started](#Project_Description)
++ [Relations](#relations_between_tables)
++ [Getting Started](#project_description)
 + [Usage](#System_functionalities)
 + [Repo Description](#Folder_content)
-+ [Built Using](#Folder_content)
++ [Built Using](#Built_Using)
 + [Authors](#authors)
 + [Acknowledgments](#acknowledgement)
 
 
-##Relations between tables:
+##Relations between tables:<a name = "about"></a>
 
 ![database-relations](https://user-images.githubusercontent.com/86572700/232116873-90695a86-277a-42ef-828a-70c8625f43f9.png)
 
-## Project Description:
+## Project Description:<a name = "project_description"></a>
 
 The project aims to create a database system for selling tours. The main technologies used will be MySQL for database management and PHP for implementing business logic. To improve the appearance and interactivity of the system, the Bootstrap library will also be used to create a responsive user interface.
 
-## System functionalities:
+## System functionalities:<a name = "System_functionalities"></a>
 
 - Trip management: adding, deleting, and editing tours in the database.
 - Trip reservations: users will be able to make reservations for selected tours.
@@ -30,13 +30,13 @@ The project aims to create a database system for selling tours. The main technol
 - Reporting system: showing which operators, trips, trip dates, etc. are most attractive to customers.
 - Filtering of displayed trips.
 
-## Folder content:
+## Folder content:<a name = "Folder_content"></a>
 
 `SQL` - The folder contains all the necessary values to create a database for the project. The files are compatible with MySQL.
 <br>
 `project` - In the folder, you can find files that contain a properly divided mechanism for booking trips. It also includes a folder with style files for the webpage (.css).
 
-## Built Using:
+## Built Using:<a name = "Built_Using"></a>
 - [VisualStudioCode](https://code.visualstudio.com/)  - Development Environment
 - [MySQLWorkbench](https://www.mysql.com/products/workbench) - Development Environment
 - [dbdiagram](https://dbdiagram.io/home) - Development Environment
