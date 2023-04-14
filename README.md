@@ -11,7 +11,7 @@ One of my projects created for the "Databases" course assignment, completed duri
 + [Acknowledgments](#acknowledgement)
 
 
-##Relations between tables:<a name = "relations_between_tables"></a>
+## Relations between tables:<a name = "relations_between_tables"></a>
 
 ![database-relations](https://user-images.githubusercontent.com/86572700/232116873-90695a86-277a-42ef-828a-70c8625f43f9.png)
 
