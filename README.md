@@ -23,4 +23,5 @@ The project aims to create a database system for selling tours. The main technol
 ## Folder content:
 
 `SQL` - The folder contains all the necessary values to create a database for the project. The files are compatible with MySQL.
+<br>
 `project` - In the folder, you can find files that contain a properly divided mechanism for booking trips. It also includes a folder with style files for the webpage (.css).
