@@ -19,3 +19,8 @@ The project aims to create a database system for selling tours. The main technol
 - Integration with payment system: option to make payments for trip reservations. There is also an option to cancel a purchased trip.
 - Reporting system: showing which operators, trips, trip dates, etc. are most attractive to customers.
 - Filtering of displayed trips.
+
+## Folder content:
+
+`SQL` - The folder contains all the necessary values to create a database for the project. The files are compatible with MySQL.
+`project` - In the folder, you can find files that contain a properly divided mechanism for booking trips. It also includes a folder with style files for the webpage (.css).
